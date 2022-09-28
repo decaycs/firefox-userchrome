@@ -31,6 +31,10 @@ This userstyle was made for a keyboard centered usage. Use the following for a b
 - `Ctrl + R` Refresh the page you're on
 - `Ctrl + Shift + A` Quick open for Add-Ons
 
+## Thanks to
+
+This userchrome is based on [janleigh's](https://github.com/janleigh) one. Thanks!
+
 ## Enjoy
 
 If you liked this, please, remember to give us a star :>
