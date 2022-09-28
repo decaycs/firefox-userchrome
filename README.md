@@ -2,7 +2,7 @@
 
 Custom userchrome for firefox using decay as colorscheme!
 
-![preview](./assets/preview)
+![preview](./assets/preview.png)
 
 ## Installation
 
